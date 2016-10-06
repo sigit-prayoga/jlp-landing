@@ -1,0 +1,26 @@
+{
+  "name": "jlp-landing",
+  "authors": [
+    "Sigit Prayoga <sigit@agnium.co.id"
+  ],
+  "description": "JLP Landing Page",
+  "main": "index.html",
+  "keywords": [
+    "jlp",
+    "community",
+    "programming"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
